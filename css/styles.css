@@ -1,5 +1,7 @@
 /* Global */
-
+.border {
+	border: 1px solid blue;
+}
 
 /* Fonts */
 h1, h2, h3,
@@ -125,7 +127,6 @@ a:visited	{color: #fff; font-weight: bold; text-decoration: none;}
 
 .personal-info p {
 	line-height: 1.5em;
-	margin: 0px;
 	margin: auto;
 }
 
@@ -141,30 +142,35 @@ a:visited	{color: #fff; font-weight: bold; text-decoration: none;}
 	text-decoration: line-through;
 	color: #ccc;
 	text-shadow:none;
-}
+} 
 
 footer {
 	background-color: #F3F0E8;
 	text-align: center;
-	padding-bottom: 1em;
 	font-size: 1.500em;
+	padding-bottom: 15px;
 }
 
 .footer li {
 	list-style: none;
 	display: inline-block;
-	padding: 2px;
+
 }
 
 .footer .twitter a {
 	color: #00a0d1;
 }
+
 .footer .github a {
 	color: #4183c4;
 }
+
 .footer .dribbble a {
 	color: #ea4c89;
 }
+
 .footer .linkedin a {
 	color: #0e76a8;
 }
+
+
