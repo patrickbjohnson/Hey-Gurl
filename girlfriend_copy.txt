@@ -1,0 +1,17 @@
+Girlfriend's next best thing. A young, enthusiastic web developer ready to bring sexy back to Girlfriend NYC. Not that GNYC has lost it's sexy, but you know, bring another level of sexy. For years I've 'casually' coded. By that, I mean I took it serious enough to help friends build simple websites and understand technology for my day job. It wasn't until December of 2012 when I decided to focus on the one true craft we have left today in technology - code.
+
+In my past professsional life I worked in advertising. Each day I'd enter the office and look at the clock. I wasn't buildilng products I believed in, just working another agency gig like most ad professionals in the city. I want to make a change, even if it means starting from the bottom.
+
+I want to change the world.
+
+
+    <li>Front-end Development</li>
+                    <li>Dabble in Design</li>
+                    <li>Strategy (Digital &amp; Social)</li>
+                    <li>Digital Marketing/Advertising</li>
+                    <li>Client Services</li>
+                    <li>Baking</li>
+                    <li>Basketball</li>
+
+<p>Please note, I'm looking for full-time work that allows me to learn the most from the fine folks at Girlfriend.</p>
+            </div>
