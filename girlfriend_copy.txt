@@ -4,14 +4,27 @@ In my past professsional life I worked in advertising. Each day I'd enter the of
 
 I want to change the world.
 
+#########
 
-    <li>Front-end Development</li>
-                    <li>Dabble in Design</li>
-                    <li>Strategy (Digital &amp; Social)</li>
-                    <li>Digital Marketing/Advertising</li>
-                    <li>Client Services</li>
-                    <li>Baking</li>
-                    <li>Basketball</li>
+I'm a front-end web developer looking to start a career in the industry I love with Girlfriend. 
+I've coded for friends, family members and the occasional side-project while having a full-time job in advertising, but I've grown tired building "on the side."
+I'm currently a freelance front-end developer looking for an entry-level or internship position with the best shop in the City. 
 
-<p>Please note, I'm looking for full-time work that allows me to learn the most from the fine folks at Girlfriend.</p>
-            </div>
+Let's change the world one line at at time.
+
+What I Do (and done): 
+- HTML
+- CSS
+- Learning JavaScript (& jQuery)
+- Design
+- Baking
+- Digital Strategy
+- Social Strategy
+- Account Management
+- Call of Duty 
+- Advertising
+
+
+
+Let's Talk
+- Looking for internship or jr dev position
