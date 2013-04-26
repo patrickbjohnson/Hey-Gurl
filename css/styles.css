@@ -30,22 +30,22 @@ h3 {
 }
 
 p {
+	margin: auto;
 	font-family:"Libre Baskerville", 'Times New Roman', Times, serif, serif; 
    	font-weight: normal; 
    	font-style: normal;
 	font-size: .850em;
 	line-height: 2em;
-	margin: auto;
 	text-align: center;
 	text-shadow: 1px 1px 1px #fff;
 }
 
 /* Links */
 
-a:link 		{color: #000; font-weight: bold; text-decoration: none;}
-a:active 	{color: #000; font-weight: bold; text-decoration: none;}
-a:hover		{color: #000; font-weight: bold; text-decoration: none;}
-a:visited	{color: #000; font-weight: bold; text-decoration: none;}
+a:link 		{color: #000; text-decoration: none;}
+a:active 	{color: #000; text-decoration: none;}
+a:hover		{color: #000; text-decoration: none;}
+a:visited	{color: #000; text-decoration: none;}
 
 .btn a:link 		{color: #fff; font-weight: bold; text-decoration: none;}
 .btn a:active 		{color: #fff; font-weight: bold; text-decoration: none;}
@@ -56,21 +56,19 @@ a:visited	{color: #000; font-weight: bold; text-decoration: none;}
 
 .btn {
 	width: 200px;
-	height: 50px;
-	line-height: 50px;
-	background-color: #FF3F3F;
+	padding: 15px 0;
 	margin: 12px auto;
-	text-align: center;
+	background-color: #FF3F3F;
 	font-family:"Apercu Bold", Calibri, sans-serif; 
-	font-size-adjust: 0.508; 
 	font-weight:bold; 
 	font-style:normal; 
+	font-size-adjust: 0.508; 
 	text-align: center;
 	text-shadow: none;
 	-webkit-transition: background .2s ease-out;
-	-moz-transition: background .2s ease-out;
-	-o-transition: background .2s ease-out;
-	transition: background .2s ease-out;
+	   -moz-transition: background .2s ease-out;
+		 -o-transition: background .2s ease-out;
+			transition: background .2s ease-out;
 }
 
 .btn:hover {
@@ -109,61 +107,58 @@ a:visited	{color: #000; font-weight: bold; text-decoration: none;}
 
 .name {
 	width: 100%;
-	text-align: center;
 	padding: 3% 0;
-	
+	text-align: center;
 }
 
 .name h1 {
 	font-size: 1.1em;
 	letter-spacing: .15em;
 }
+
 .hero {
 	width: 100%;
 	padding: 6% 0;
 	background-color: #111;
-	
 }
 
 /* Info Section */
 .personal-info {
+	height: 100%;
 	width: 70%;
 	max-width: 650px;
-	height: 100%;
-	margin: auto;
-	margin-bottom: 2.2em;
-	
+	margin: 0 auto 2.2em auto;
 }
 
 .personal-info li {
 	list-style: none;
 	margin: auto;
-	text-align: center;
 	font-family:  "Libre Baskerville", "Times New Roman", Georgia, Serif;
 	font-size: .850em;
 	line-height: 2em;
+	text-align: center;
 	text-shadow: 1px 1px 1px #fff;
 }
 
 .strike {
-	text-decoration: line-through;
 	color: #ccc;
+	text-decoration: line-through;
 	text-shadow:none;
 } 
 
 /* Footer Section */
 
 footer {
-	background-color: #F3F0E8;
-	text-align: center;
-	font-size: 1.500em;
 	padding-bottom: 15px;
+	font-size: 1.500em;
+	text-align: center;
+	background-color: #F3F0E8;
 }
 
 .footer li {
 	list-style: none;
 	display: inline-block;
-
+	padding: 0px 5px;
 }
 
 .footer .twitter a {
